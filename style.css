@@ -1,0 +1,26 @@
+body {
+    font: normal 16px Arial, Verdana, serif;
+}
+
+@media screen and (max-width: 800px) {
+    img {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+}
+
+img {
+    height: auto;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+
+p{
+    max-width: 700px;
+
+}
+
